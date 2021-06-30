@@ -1,2 +1,0 @@
-# Vehicle-Identity-Finder
-.
