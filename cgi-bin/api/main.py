@@ -3,15 +3,15 @@ import json
 
 BASE = 'http://127.0.0.1:5000/'
 
-data = [{'Registration': 'MH01AV8866', 
-        'Owner': 'M//S PANDURONGA TIMBLO INDUSTRIES', 
-        'Maker': 'JAGUAR LAND ROVER INDIA LIMITED/ JAGUAR(XF 5.0LV8', 
-        'Vehicle': 'MOTOR CAR (L)', 
-        'Fuel_Type': 'PETROL', 
-        'Chassis': 'SAJAAC07P8BLRXXXXX', 
-        'Engine_Number': '10052323430XXXXX', 
-        'Registration_Date': '22-FEB-2011', 
-        'Insurance_Valid_Upto': '17-FEB-2012'
+data = [{'Registration': 'KA05NB1786', 
+        'Owner': 'WASIM AHMAD', 
+        'Maker': 'SELTOS/ KIS', 
+        'Vehicle': 'MOTOL CAR ', 
+        'Fuel_Type': 'DEIESEL', 
+        'Chassis': 'MZBEN813LLN16XXXXX', 
+        'Engine_Number': 'D4FALM08XXXXX', 
+        'Registration_Date': '23-10-2020', 
+        'Insurance_Valid_Upto': '21-OCT-2023'
 }
 
 ]

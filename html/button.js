@@ -2,7 +2,7 @@
 function getInfo(vehicle_number) {
     
     var xhr = new XMLHttpRequest();
-    xhr.open("GET", "http://192.168.153.207/cgi-bin/get-info.py?vehicle_number=" + vehicle_number, true);
+    xhr.open("GET", "http://192.168.243.207/cgi-bin/get-info.py?vehicle_number=" + vehicle_number, true);
 
     xhr.send();
 
