@@ -3,6 +3,7 @@ import json
 
 BASE = 'http://127.0.0.1:5000/'
 
+
 data = [{'Registration': 'KA05NB1786', 
         'Owner': 'WASIM AHMAD', 
         'Maker': 'SELTOS/ KIS', 
@@ -12,8 +13,7 @@ data = [{'Registration': 'KA05NB1786',
         'Engine_Number': 'D4FALM08XXXXX', 
         'Registration_Date': '23-10-2020', 
         'Insurance_Valid_Upto': '21-OCT-2023'
-}
-
+    }
 ]
 
 for i in range(len(data)):
